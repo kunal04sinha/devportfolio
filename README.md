@@ -337,7 +337,7 @@ The optional section blocks have styling for h3 (the block title), h4, p, and ul
 ### 1.1.0
 
 * Fixed menu toggle on mobile devices
-* Fixed z-index / scrolling issue with mobile menu
+* Fixed z-index / scrolling issue with mobile menu.
 * Mobile menu now closes once a nav element is hit
 
 ## License
